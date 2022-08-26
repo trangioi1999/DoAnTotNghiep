@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_quanly"
+        android:icon="@drawable/ds"
+        android:title="@string/title_quanly" />
+
+    <item
+        android:id="@+id/navigation_dieukien"
+        android:icon="@drawable/sw"
+        android:title="@string/title_dieukien" />
+
+    <item
+        android:id="@+id/navigation_giamsat"
+        android:icon="@drawable/cm"
+        android:title="@string/title_giamsat" />
+
+    <item
+        android:id="@+id/navigation_thongke"
+        android:icon="@drawable/tk"
+        android:title="@string/title_thongke" />
+
+</menu>

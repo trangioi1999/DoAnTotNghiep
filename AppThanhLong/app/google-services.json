@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199756898731",
+    "firebase_url": "https://appthanhlong-34b6d.firebaseio.com",
+    "project_id": "appthanhlong-34b6d",
+    "storage_bucket": "appthanhlong-34b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199756898731:android:2954f5655e879dcca832ee",
+        "android_client_info": {
+          "package_name": "com.example.appthanhlong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199756898731-ntmanr3lsnvgnjs53piinaigcjfmlc71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appthanhlong",
+            "certificate_hash": "c78c03d75c637af1c904831be90a5c8ac5f24f9c"
+          }
+        },
+        {
+          "client_id": "199756898731-o7sol1bo9u7odht4i160bk59cgppehgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2pTBQS2kR-e6MPY61NiZ_9RNoBTXMDyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199756898731-o7sol1bo9u7odht4i160bk59cgppehgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
